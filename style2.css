@@ -1,0 +1,32 @@
+body {
+  align-items: center;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  color: #eee;
+}
+.form {
+  background-color: #15172b;
+  border-radius: 20px;
+  box-sizing: border-box;
+  height: 240px;
+  padding: 20px;
+  width: 620px;
+}
+
+.title {
+  color: #eee;
+  font-family: sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  margin-top: 11px;
+}
+.title2 {
+  color: #eee;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 000;
+  margin-top: 8px;
+  
+}
